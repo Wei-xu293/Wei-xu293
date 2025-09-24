@@ -10,7 +10,7 @@
 
 </div>
 
-![头像]()
+[comment]: ![头像]()
 
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Wei-xu293.
