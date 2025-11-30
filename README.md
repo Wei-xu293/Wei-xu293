@@ -3,7 +3,7 @@
 
 ![github-sub-title:img]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wei-xu293&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wei-xu293&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
 
 ![](https://img.shields.io/badge/Status-Being_distracted-yellow)
